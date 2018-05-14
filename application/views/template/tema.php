@@ -243,7 +243,7 @@
         <script type="text/javascript" src="<?php echo base_url('includes/rev-slider/js/extensions/revolution.extension.slideanims.min.js');?>"></script>
         <script type="text/javascript" src="<?php echo base_url('includes/rev-slider/js/extensions/revolution.extension.video.min.js');?>"></script>
 
-
+<!-- luyfi ganteng -->
 
         <!-- Google Maps -->
         <?php if ($this->uri->segment('1')=='kontak-kami') { ?>
